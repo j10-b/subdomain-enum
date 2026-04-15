@@ -3,7 +3,7 @@ active and passive subdomains
 
 Install all these tools
  
-***subfinder found***
+* subfinder found
 assetfinder found
 subdominator found
 curl found
