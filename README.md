@@ -17,7 +17,7 @@ Install all these tools
 * httpx
 * dig
 
-**Store all the API's in the config files**
+**Don't forget to store all the API's in the config files**
 
 
 # Run
