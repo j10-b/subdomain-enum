@@ -20,4 +20,6 @@ Install all these tools
 # Run
 
 chmod +x recon.sh
+
+
 ./recon.sh target.com
